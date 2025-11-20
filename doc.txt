@@ -1,1 +1,2 @@
 learning git command
+git clone and git push
